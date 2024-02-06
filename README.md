@@ -1,5 +1,5 @@
 # CSD3156 Mobile Team Project: Captain Jumper Boy
-![](https://github.com/ksxjltze/captain_jumper_boy/blob/main/screenshots/CAPTAIN_JUMPER.png)
+![](https://github.com/matthias-ong/captain_jumper_boy/blob/main/screenshots/CAPTAIN_JUMPER.png)
 
 Developed by:
 - Lee Jia Keat
@@ -14,4 +14,4 @@ Captain Jumper Boy is an engaging and difficult platformer that will put your re
 The difficulty will increase with each jump, so you'll need to be alert to keep from falling off the screen. Can you take on the challenge and score as high as you can? Take the plunge and begin playing "CaptainJumperBoy" right away to find out!
 
 ### Gameplay:
-![](https://github.com/ksxjltze/captain_jumper_boy/blob/main/screenshots/gameplay.png)
+![](https://github.com/matthias-ong/captain_jumper_boy/blob/main/screenshots/gameplay.png)
